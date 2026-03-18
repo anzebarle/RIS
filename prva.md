@@ -1,5 +1,7 @@
 # Specifikacija zahtev za program lojalnosti Maestro
 
+Anže Barle Čuk
+
 ## 1. Kratek opis sistema
 Sistem lojalnosti trgovske verige Maestro je namenjen spodbujanju strank k večjim in pogostejšim nakupom. Rešitev omogoča strankam zbiranje točk zvestobe na podlagi mesečne porabe, pri čemer so nagrajene glede na svoj nivo lojalnosti. Sistem vključuje varno spletno registracijo, uporabniški portal za pregled stanja in administrativni del za upravljanje pravil.
 
