@@ -56,3 +56,6 @@ Sistem za svoje delovanje potrebuje povezave z naslednjimi zunanjimi sistemi:
 **Funckijska dekompozicija**
 <img width="1349" height="709" alt="image" src="https://github.com/user-attachments/assets/4eb86073-c1ff-440b-aa38-6c4ddcef841f" />
 
+**Uporabniski tokovi**
+<img width="375" height="820" alt="456" src="https://github.com/user-attachments/assets/2c05fac3-9ab5-4c10-afc1-43d14c8dce46" />
+
