@@ -53,15 +53,12 @@ Sistem za svoje delovanje potrebuje povezave z naslednjimi zunanjimi sistemi:
 
 <img width="862" height="558" alt="plant" src="https://github.com/user-attachments/assets/b1dc9a12-c1d5-4aa7-8535-5a9abe5784cd" />
 
-**Funckijska dekompozicija**
+## 6.Funckijska dekompozicija
 <img width="1674" height="586" alt="image" src="https://github.com/user-attachments/assets/1d5a216b-6a1b-443a-8f34-ac348456e7b0" />
 
-**Funkcionalni model**
+## 7.Funkcionalni model
 <img width="1598" height="668" alt="image" src="https://github.com/user-attachments/assets/c95ea082-e948-405e-ad2c-81577e35d5ef" />
 
-
-
-**Uporabniski tokovi**
-
+## 8.Uporabniski tokovi
 <img width="375" height="820" alt="456" src="https://github.com/user-attachments/assets/2c05fac3-9ab5-4c10-afc1-43d14c8dce46" />
 
